@@ -58,7 +58,7 @@ If you have ideas, requests, or want to help add support for more sites, please 
 
 ## License
 
-[MIT](LICENSE) – See the LICENSE file for details.
+[[MIT](LICENSE)](https://github.com/tobiases/financial-document-scraper/blob/main/LICENSE.txt) – See the LICENSE file for details.
 
 ---
 
