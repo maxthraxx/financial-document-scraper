@@ -4,6 +4,8 @@
 
 **financial-document-scraper-** is a Chrome browser extension that lets you quickly extract and copy financial statement tables from Yahoo Finance into Excel or Google Sheets. Just visit the financials page, run the extension, and paste the results directly into your spreadsheet—no manual formatting or cleaning required!
 
+live on the chrome extension store : https://chromewebstore.google.com/detail/mjhfidopkgcdafpbfdgfadaodhjfedoc?utm_source=item-share-cb
+
 ---
 
 ## Features
